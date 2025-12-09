@@ -120,3 +120,4 @@ nelmio_cors:
 
 GET http://127.0.0.1:8000/api/books
 
+Solo se valida la rama main y el primer commit "Initial commit - Symfony backend"
