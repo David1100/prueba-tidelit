@@ -59,6 +59,7 @@ http://127.0.0.1:8000
 ✔️ Obtener todos los libros
 
 GET /api/books
+<img width="1377" height="831" alt="image" src="https://github.com/user-attachments/assets/6908f8ad-8040-41e2-8f83-ad4f4d699aff" />
 
 [
     {
